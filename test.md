@@ -4,10 +4,10 @@ layout: default
 
 Hello World
 
-<script src="https://giscus.app/client.js"
+<p><script src="https://giscus.app/client.js"
         data-repo="kohlschutter/kohlschutter.github.io"
         data-repo-id="MDEwOlJlcG9zaXRvcnkxNjM1NzQ2MjY="
-        data-category="Discussions"
+        data-category="Giscus"
         data-category-id="DIC_kwDOCb_zYs4CQTx4"
         data-mapping="pathname"
         data-reactions-enabled="1"
@@ -17,4 +17,4 @@ Hello World
         data-lang="en"
         crossorigin="anonymous"
         async>
-</script>
+</script><small>Discussions widget provided by giscus.app — <a href="https://github.com/giscus/giscus/blob/main/PRIVACY-POLICY.md" target="_top">giscus.app privacy policy</a></small></p>
