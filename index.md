@@ -12,4 +12,4 @@ layout: default
 
 * [coding-style](https://github.com/kohlschutter/coding-style/) — Coding conventions, Eclipse configurations
 
-* [copy-rename-maven-plugin](https://github.com/kohlschutter/copy-rename-maven-plugin/) — Fork of the coderplus copy-rename-maven-plugin
+* [copy-rename-maven-plugin](copy-rename-maven-plugin/) — Fork of the coderplus copy-rename-maven-plugin
